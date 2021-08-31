@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "crc-full": "^1.1.0",
+    "node-hid": "^2.1.1",
+    "serialport": "^9.2.0"
+  }
+}
